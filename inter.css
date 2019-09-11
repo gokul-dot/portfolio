@@ -1,0 +1,228 @@
+.h1{
+  font-family: Catamaran;
+  font-size: 35px;
+  font-weight: 900;
+  color: #111;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  padding: 8px 0;
+  letter-spacing: 5px;
+}
+.wrap{
+  display: grid;
+  font-family: Catamaran;
+  grid-template-columns: repeat(4,5fr);
+  grid-gap:100px;
+  grid-template-rows: repeat(2,minmax(200px,auto));
+  padding: 30px;
+  margin-top: 60px;
+}
+.c{
+  grid-column: 1;
+  grid-row: 1;
+  text-align:center;
+  background-image: url("ah.jpg");
+  background-size:cover;
+  box-shadow: 0px -1px 60px -27px rgba(59, 57, 59, 0.774);
+}
+.cr{
+  grid-column: 1;
+  grid-row: 2;
+  text-align:center;
+  background-size:cover;
+}
+.cr1{
+  grid-column: 2;
+  grid-row: 2;
+  text-align:center;
+  background-size:cover;
+}
+.cr2{
+  grid-column: 3;
+  grid-row: 2;
+  text-align:center;
+  background-size:cover;
+}
+.cr3{
+  grid-column: 4;
+  grid-row: 2;
+  text-align:center;
+  background-size:cover;
+}
+.f{
+  grid-column: 2;
+  grid-row: 1;
+  text-align:center;
+  background-image: url("ah.jpg");
+  background-size:cover;
+  box-shadow: 0px -1px 60px -27px rgba(59, 57, 59, 0.774);
+}
+.c1{
+  grid-column: 3;
+  grid-row: 1;
+  text-align:center;
+  background-image: url("ah.jpg");
+  background-size:cover;
+  box-shadow: 0px -1px 60px -27px rgba(59, 57, 59, 0.774);
+}
+.b{
+  grid-column: 4;
+  grid-row: 1;
+  text-align:center;
+  background-image: url("ah.jpg");
+  background-size:cover;
+  box-shadow: 0px -1px 60px -27px rgba(59, 57, 59, 0.774);
+}
+.h2{
+  font-family: Catamaran;
+  font-size: 35px;
+  font-weight: 900;
+  color: #111;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  padding: 8px 0;
+  letter-spacing: 5px;
+}
+.wrap1{
+  display: grid;
+  font-family: Catamaran;
+  grid-template-columns: repeat(4,5fr);
+  grid-gap:100px;
+  grid-template-rows: repeat(2,minmax(200px,auto));
+  padding: 30px;
+  margin-top: 60px;
+}
+.e1{
+  grid-column: 1;
+  grid-row: 1;
+  text-align:center;
+  background-image: url("ah.jpg");
+  background-size:cover;
+  box-shadow: 0px -1px 60px -27px rgba(59, 57, 59, 0.774);
+}
+.con1{
+  grid-column: 1;
+  grid-row: 2;
+  text-align:center;
+  background-size:cover;
+}
+.con2{
+  grid-column: 2;
+  grid-row: 2;
+  text-align:center;
+  background-size:cover;
+}
+.con3{
+  grid-column: 3;
+  grid-row: 2;
+  text-align:center;
+  background-size:cover;
+}
+.con4{
+  grid-column: 4;
+  grid-row: 2;
+  text-align:center;
+  background-size:cover;
+}
+.e2{
+  grid-column: 2;
+  grid-row: 1;
+  text-align:center;
+  background-image: url("ah.jpg");
+  background-size:cover;
+  box-shadow: 0px -1px 60px -27px rgba(59, 57, 59, 0.774);
+}
+.e3{
+  grid-column: 3;
+  grid-row: 1;
+  text-align:center;
+  background-image: url("ah.jpg");
+  background-size:cover;
+  box-shadow: 0px -1px 60px -27px rgba(59, 57, 59, 0.774);
+}
+.e4{
+  grid-column: 4;
+  grid-row: 1;
+  text-align:center;
+  background-image: url("ah.jpg");
+  background-size:cover;
+  box-shadow: 0px -1px 60px -27px rgba(59, 57, 59, 0.774);
+}
+.h3{
+  font-family: Catamaran;
+  font-size: 35px;
+  font-weight: 900;
+  color: #111;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  padding: 8px 0;
+  letter-spacing: 5px;
+}
+.wrap2{
+  display: grid;
+  font-family: Catamaran;
+  grid-template-columns: repeat(4,5fr);
+  grid-gap:100px;
+  grid-template-rows: repeat(2,minmax(200px,auto));
+  padding: 30px;
+  margin-top: 60px;
+}
+.f1{
+  grid-column: 1;
+  grid-row: 1;
+  text-align:center;
+  background-image: url("ah.jpg");
+  background-size:cover;
+  box-shadow: 0px -1px 60px -27px rgba(59, 57, 59, 0.774);
+}
+.conf1{
+  grid-column: 1;
+  grid-row: 2;
+  text-align:center;
+  background-size:cover;
+}
+.conf2{
+  grid-column: 2;
+  grid-row: 2;
+  text-align:center;
+  background-size:cover;
+}
+.conf3{
+  grid-column: 3;
+  grid-row: 2;
+  text-align:center;
+  background-size:cover;
+}
+.conf4{
+  grid-column: 4;
+  grid-row: 2;
+  text-align:center;
+  background-size:cover;
+}
+.f2{
+  grid-column: 2;
+  grid-row: 1;
+  text-align:center;
+  background-image: url("ah.jpg");
+  background-size:cover;
+  box-shadow: 0px -1px 60px -27px rgba(59, 57, 59, 0.774);
+}
+.f3{
+  grid-column: 3;
+  grid-row: 1;
+  text-align:center;
+  background-image: url("ah.jpg");
+  background-size:cover;
+  box-shadow: 0px -1px 60px -27px rgba(59, 57, 59, 0.774);
+}
+.f4{
+  grid-column: 4;
+  grid-row: 1;
+  text-align:center;
+  background-image: url("ah.jpg");
+  background-size:cover;
+  box-shadow: 0px -1px 60px -27px rgba(59, 57, 59, 0.774);
+}
